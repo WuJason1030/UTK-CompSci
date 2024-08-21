@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "*.tcc": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
